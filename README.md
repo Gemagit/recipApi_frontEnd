@@ -69,4 +69,9 @@ Mi nombre es Gema, y es un placer poder compartir estas recetas con vosotros. He
 
 ![Captura de pantalla 2024-03-13 a las 16 15 39](https://github.com/Gemagit/quiz2.0/assets/143506667/4b5a34e0-1914-4145-af1f-a52c3c407f59)
 
+## Cosas a implementar más adelante:
 
+-Botón de siguiente receta en los filtrados.
+-Firebase
+-LocalStorage
+-Carrito de la compra para almacenar ingredientes
