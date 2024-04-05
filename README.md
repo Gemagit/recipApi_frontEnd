@@ -71,7 +71,7 @@ Mi nombre es Gema, y es un placer poder compartir estas recetas con vosotros. He
 
 ## Cosas a implementar más adelante:
 
--Botón de siguiente receta en los filtrados.
--Firebase
--LocalStorage
--Carrito de la compra para almacenar ingredientes
+1. Botón de siguiente receta en los filtrados.
+2. Firebase
+3. LocalStorage
+4. Carrito de la compra para almacenar ingredientes
